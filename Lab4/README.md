@@ -1,5 +1,13 @@
 # Breadth-First Search (BFS) and Depth-First Search (DFS) 
 
+> [!NOTE]
+> Based on [Bartłomiej Kulecki's repository](https://github.com/BartlomiejKulecki/mapr_4_student.git)
+
+Dependencies:
+```
+sudo apt-get install ros-humble-nav2-map-server ros-humble-nav2-lifecycle-manager
+```
+
 Put the src directory inside your ros2 workspace.
 
 ## Task 1 - Depth-First Search
